@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0035-search-insert-position) |
+| [0278-first-bad-version](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0278-first-bad-version) |
 ## Math
 |  |
 | ------- |
@@ -21,4 +22,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0020-valid-parentheses) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
