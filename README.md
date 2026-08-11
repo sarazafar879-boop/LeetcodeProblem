@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0020-valid-parentheses) |
+| [0242-valid-anagram](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Stack
@@ -49,5 +50,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0438-find-all-anagrams-in-a-string) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
