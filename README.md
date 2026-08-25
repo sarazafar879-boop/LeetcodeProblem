@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0035-search-insert-position) |
 | [0239-sliding-window-maximum](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0643-maximum-average-subarray-i) |
+| [0724-find-pivot-index](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0724-find-pivot-index) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 ## Binary Search
 |  |
@@ -95,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0239-sliding-window-maximum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
