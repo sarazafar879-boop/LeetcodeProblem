@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0035-search-insert-position) |
 | [0239-sliding-window-maximum](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0239-sliding-window-maximum) |
+| [0283-move-zeroes](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0643-maximum-average-subarray-i) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0283-move-zeroes](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0283-move-zeroes) |
 ## Sliding Window
 |  |
 | ------- |
