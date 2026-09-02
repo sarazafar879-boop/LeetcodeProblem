@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0035-search-insert-position) |
+| [0204-count-primes](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0204-count-primes) |
 | [0239-sliding-window-maximum](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0485-max-consecutive-ones) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0069-sqrtx) |
+| [0204-count-primes](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0204-count-primes) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/1248-count-number-of-nice-subarrays) |
 ## String
 |  |
@@ -113,4 +115,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0724-find-pivot-index) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/1248-count-number-of-nice-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/1480-running-sum-of-1d-array) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
