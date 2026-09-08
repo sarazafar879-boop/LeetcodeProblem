@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0204-count-primes) |
+| [0509-fibonacci-number](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0509-fibonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/1248-count-number-of-nice-subarrays) |
 | [3870-count-commas-in-range](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/3870-count-commas-in-range) |
 ## String
@@ -142,4 +143,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/2149-rearrange-array-elements-by-sign) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
