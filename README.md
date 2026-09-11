@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0784-letter-case-permutation](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0784-letter-case-permutation) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Stack
 |  |
 | ------- |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0022-generate-parentheses) |
 | [0784-letter-case-permutation](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0784-letter-case-permutation) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -174,4 +176,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0784-letter-case-permutation](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0784-letter-case-permutation) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 <!---LeetCode Topics End-->
