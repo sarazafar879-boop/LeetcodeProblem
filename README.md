@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0242-valid-anagram](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0784-letter-case-permutation](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0784-letter-case-permutation) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Stack
 |  |
@@ -164,8 +165,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0022-generate-parentheses) |
+| [0784-letter-case-permutation](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0784-letter-case-permutation) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0022-generate-parentheses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0784-letter-case-permutation](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0784-letter-case-permutation) |
 <!---LeetCode Topics End-->
