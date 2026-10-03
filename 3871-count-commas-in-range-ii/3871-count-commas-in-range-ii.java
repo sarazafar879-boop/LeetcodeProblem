@@ -1,10 +1,10 @@
 class Solution {
        public long countCommas(long n) {
-        long ans = 0;
+        long anss = 0;
         long threshold = 1000;
 
         while (threshold <= n) {
-            ans += n - threshold +1;;
+            anss += n - threshold +1;;
 
             if (threshold > n / 1000)
                 break;
@@ -12,7 +12,7 @@ class Solution {
             threshold *= 1000;
         }
 
-        return ans;
+        return anss;
     }
 }
         
