@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/1480-running-sum-of-1d-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3875-construct-uniform-parity-array-i](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/3903-smallest-stable-index-i) |
 ## Binary Search
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/3871-count-commas-in-range-ii) |
+| [3875-construct-uniform-parity-array-i](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/3875-construct-uniform-parity-array-i) |
 ## String
 |  |
 | ------- |
