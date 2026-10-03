@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0560-subarray-sum-equals-k) |
+| [0628-maximum-product-of-three-numbers](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0724-find-pivot-index) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/1248-count-number-of-nice-subarrays) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0204-count-primes) |
 | [0509-fibonacci-number](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0628-maximum-product-of-three-numbers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/1248-count-number-of-nice-subarrays) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/3870-count-commas-in-range) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0242-valid-anagram) |
+| [0628-maximum-product-of-three-numbers](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## String Matching
 |  |
