@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0053-maximum-subarray) |
+| [0079-word-search](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0090-subsets-ii) |
 | [0204-count-primes](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0204-count-primes) |
 | [0239-sliding-window-maximum](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0239-sliding-window-maximum) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0058-length-of-last-word) |
+| [0079-word-search](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0079-word-search) |
 | [0242-valid-anagram](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0051-n-queens) |
+| [0079-word-search](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0090-subsets-ii) |
 | [0784-letter-case-permutation](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0784-letter-case-permutation) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
@@ -219,4 +222,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0051-n-queens) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0079-word-search) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
