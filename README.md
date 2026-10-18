@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0053-maximum-subarray) |
 | [0079-word-search](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0090-subsets-ii) |
+| [0169-majority-element](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0204-count-primes) |
 | [0239-sliding-window-maximum](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0283-move-zeroes) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -224,11 +227,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0387-first-unique-character-in-a-string) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0169-majority-element) |
 ## Algorithm X
 |  |
 | ------- |
@@ -257,4 +262,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0142-linked-list-cycle-ii) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
