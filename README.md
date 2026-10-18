@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0204-count-primes) |
+| [0415-add-strings](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0628-maximum-product-of-three-numbers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/1248-count-number-of-nice-subarrays) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0079-word-search) |
 | [0242-valid-anagram](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0387-first-unique-character-in-a-string) |
+| [0415-add-strings](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0415-add-strings) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0784-letter-case-permutation](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0784-letter-case-permutation) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0415-add-strings) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
 |  |
