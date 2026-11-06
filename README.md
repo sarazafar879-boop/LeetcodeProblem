@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0053-maximum-subarray) |
 | [0079-word-search](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0079-word-search) |
+| [0084-largest-rectangle-in-histogram](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0090-subsets-ii) |
 | [0169-majority-element](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0204-count-primes) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0084-largest-rectangle-in-histogram) |
 | [0234-palindrome-linked-list](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0234-palindrome-linked-list) |
 ## Interactive
 |  |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0084-largest-rectangle-in-histogram) |
 | [0239-sliding-window-maximum](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0239-sliding-window-maximum) |
 ## Prefix Sum
 |  |
@@ -274,4 +277,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0169-majority-element) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
