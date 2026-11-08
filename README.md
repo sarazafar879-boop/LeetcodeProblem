@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0204-count-primes) |
 | [0415-add-strings](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0415-add-strings) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0029-divide-two-integers) |
 | [0090-subsets-ii](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0090-subsets-ii) |
 | [0784-letter-case-permutation](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0784-letter-case-permutation) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
