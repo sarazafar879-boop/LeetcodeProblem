@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0415-add-strings) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0784-letter-case-permutation](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0784-letter-case-permutation) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Stack
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0084-largest-rectangle-in-histogram) |
 | [0234-palindrome-linked-list](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/0234-palindrome-linked-list) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sarazafar879-boop/LeetcodeProblem/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Interactive
 |  |
 | ------- |
